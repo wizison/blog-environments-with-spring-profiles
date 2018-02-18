@@ -17,9 +17,9 @@ use the jvm parameter `-Dspring.profiles.active` to configure the environment.
 
 ##### there are two general environment profiles:
  - `test`  
- configures logback to use file logging.
+ configures logback to use file logging and some test settings.
  - `prod`  
- configures logback to use file logging.
+ configures logback to use file logging and some production settings.
 
 ##### Example config
 - server dude  
