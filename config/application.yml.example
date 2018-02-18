@@ -1,0 +1,4 @@
+# this yml overrides all not profile specific settings, when you remove the ".example" extension of the file
+
+app:
+  size: 1337
