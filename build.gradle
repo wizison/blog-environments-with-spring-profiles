@@ -61,12 +61,8 @@ dependencies {
 
     compile 'ch.qos.logback:logback-core'
     compile 'ch.qos.logback:logback-classic'
-    compile 'org.slf4j:jcl-over-slf4j'
 
     compile 'org.springframework.boot:spring-boot-starter-web'
-
-    testCompile 'org.assertj:assertj-core'
-    testCompile 'org.springframework.boot:spring-boot-starter-test'
 }
 
 jar {
