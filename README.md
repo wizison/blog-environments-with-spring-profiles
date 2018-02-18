@@ -25,5 +25,5 @@ use the jvm parameter `-Dspring.profiles.active` to configure the environment.
 - server dude  
 `-Dspring.profiles.active=prod,dude`
 
-#### run fat jar in console with profile
+##### run fat jar in console with profile
 `$ JAVA_OPTS=-Dspring.profiles.active=test ./spring-profiles.jar`
