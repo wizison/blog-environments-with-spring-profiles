@@ -1,0 +1,3 @@
+app:
+  size: 3
+  environment-message: this is the ide environment

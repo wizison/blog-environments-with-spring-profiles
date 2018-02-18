@@ -16,3 +16,7 @@ spring:
   output:
     ansi:
       enabled: always
+
+app:
+  size: 1
+  environment-message: this is the default environment

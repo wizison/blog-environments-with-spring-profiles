@@ -1,0 +1,3 @@
+app:
+  size: 2
+  environment-message: this is the test environment
