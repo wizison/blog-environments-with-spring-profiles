@@ -3,7 +3,7 @@ logging:
     console: "%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(%-5level){green} %clr(%-36logger{36}){cyan} - %msg%n"
     file: "%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level %-36logger{36} - %msg%n"
   level:
-    at.wizi.blog: info
+    at.wizi.blog: debug
     org.springframework: info
 
 spring:
